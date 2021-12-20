@@ -2,7 +2,9 @@
 Flutter Fest etkinliğinde Dart dersleri anlatılırken yazılmış kodlar burada yer almaktadır.,
 
 Yayınlar:
+
 https://www.youtube.com/watch?v=M8tIdCDTYmM
+
 https://www.youtube.com/watch?v=G13p-POJTQI
 
 VS-CODE Kullanılan eklentiler: 
